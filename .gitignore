@@ -1,0 +1,26 @@
+bin
+obj
+.vs
+*.ide
+*.suo
+*.user
+*.userprefs
+lib/*.pdb
+Installer/Installer/res/Files.zip
+contrib/nuget/output/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
