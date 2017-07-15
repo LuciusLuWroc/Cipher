@@ -1,5 +1,5 @@
 # Cipher
-How to pass solving quiz puzzle algorithm on programming language.<br>
+How to pass solving algorithm of quiz puzzle to programming language.<br>
 This project is only for educational purposes.<br>
 Puzzle text:
 
